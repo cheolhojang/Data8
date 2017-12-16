@@ -1,2 +1,4 @@
 # Data8
-Project from Summer Data 8 course in Numpy
+Course Projects from Summer 2017 Data 8 course.
+Implemented with NumPy
+Partnered with Riley McDanal
